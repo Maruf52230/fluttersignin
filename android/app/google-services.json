@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "7991317191",
+    "project_id": "appo-52716",
+    "storage_bucket": "appo-52716.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7991317191:android:416fb86c9e6b49f04864e2",
+        "android_client_info": {
+          "package_name": "com.example.fluttersignin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuObAd12QRKOf_DUzG81dyx80Gy8y3fM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7991317191:android:84f9b6f2a67e55bf4864e2",
+        "android_client_info": {
+          "package_name": "com.signintest.maruf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuObAd12QRKOf_DUzG81dyx80Gy8y3fM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
